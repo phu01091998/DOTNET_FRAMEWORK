@@ -7,4 +7,6 @@ c:\users\ht\documents\visual studio 2015\Projects\AppG32019\AppG32019\obj\Debug\
 c:\users\ht\documents\visual studio 2015\Projects\AppG32019\AppG32019\obj\Debug\AppG32019.exe
 c:\users\ht\documents\visual studio 2015\Projects\AppG32019\AppG32019\obj\Debug\AppG32019.pdb
 c:\users\ht\documents\visual studio 2015\Projects\AppG32019\AppG32019\obj\Debug\AppG32019.Form2.resources
+C:\Users\HT\Documents\Visual Studio 2015\Projects\AppG32019\AppG32019\obj\Debug\AppG32019.Form3.resources
+C:\Users\HT\Documents\Visual Studio 2015\Projects\AppG32019\AppG32019\bin\Debug\data\student.husc
 C:\Users\HT\Documents\Visual Studio 2015\Projects\AppG32019\AppG32019\obj\Debug\AppG32019.csprojResolveAssemblyReference.cache

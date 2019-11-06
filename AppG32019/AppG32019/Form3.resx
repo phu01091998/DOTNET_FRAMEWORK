@@ -117,23 +117,69 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="error" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\error.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="test" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\test.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="plus" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\plus.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="updated" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\updated.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="boy" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\boy.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="delete" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\delete.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>122, 17</value>
+  </metadata>
+  <metadata name="Column1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column2.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Column3.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="toolStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>35</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAGBgAAAEAIACICQAAFgAAACgAAAAYAAAAMAAAAAEAIAAAAAAAAAkAAKYAAACmAAAAAAAAAAAA
+        AAD///8A////AP///wBSQSyoWkcw/F5KMv9QQCr/Xkoy/15KMv9eSjL/f29d7fPx8f/39fX/fWtY315K
+        Mv9eSjL/Xkoy/1BAKv9eSjL/Xkoy+11KMmv///8A////AP///wD///8A////AP///wBRQCvcWUcv/15K
+        Mv9QQCr/Xkoy/15KMv9eSjL/qJ2S9Pf19f/39fX/saeb615KMv9eSjL/Xkoy/1BAKv9eSjL/Xkoy/15J
+        MaD///8A////AP///wD///8A////AP///wBRQCvcWUcv/15KMv9QQCr/Xkoy/15KMv9eSjL/0s3K//f1
+        9f/39fX/4t7a/15KMv9eSjL/Xkoy/1BAKv9eSjL/Xkoy/15JMaD///8A////AP///wD///8A////AP//
+        /wBRQSvQWEYv/15KMv9WRC3/Xkoy/15KMv9qV0Lw7+zs//f19f/39fX/9/X1/2lVP+peSjL/Xkoy/1ZE
+        Lf9eSjL/Xkoy/11KMZH///8A////AP///wD///8A////AP///wBTQi2HVEMs/15KMv9eSjL/Xkoy/15K
+        Mv+Rg3Tw9vT0//f19f/39fX/9/X1/5KEdeBeSjL/Xkoy/15KMv9eSjL/Xkoy/1xJM1D///8A////AP//
+        /wD///8A////AP///wBYPiwdUD8q/V5KMv9eSjL/Xkoy/15KMv+7sqv59/X1/vT09e729PTy9/X1/8nB
+        uvheSjL/Xkoy/15KMv9eSjL/Xkoy92ZEMw////8A////AP///wD///8A////AP///wD///8AVEIrfFND
+        LfxeSjL/Xkoy/19LNPvD0eLnnsz5+pnL+/+Zy/v/qtP55sbZ78VfSzT6Xkoy/15KMv9eSjL4YEoySP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AFNCLllVRC3KWkcv92lmX/WXyfn/mcv7/5nL
+        +/+Zy/v/mcv7/5nL+/9qZFzqXkoy9F5KMqheSTQx////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8AUEAwEHmRp5aTxPaslcb3+pnL+/+Zy/v/mcv7/ZnL+4+DoLhhYEBACP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP///wBVVVUDPj5hHf//
+        /wD///8AkcLz85nL+/+Zy/v/mcv7+P///wD///8ATk5kF0BAYAj///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wA/P1riSUlm/0tLadZzjritk8b25pfJ+vOZy/v0mcr72nCG
+        rZJLS2nQS0tp/0tLab////8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AEJC
+        XU1BQV3/S0tp/22ErP2Uxvb+mcv7/5nL+/+Zy/v/mcv7/5nL+/9meJ33S0tp/0tLaf9NTWk/////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AD8/W9dISGb/S0tp/4y77fmZy/v/mcv7/5nL
+        +/+Zy/v/mcv7/5nL+/+VxPT0S0xq/0tLaf9KSmmy////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AD4+WvdOUG//bou08ZDC8/+Zy/v/mcv7/5TG9/+Vx/f/mcv7/5nL+/+Zy/v/epjA8FNY
+        d/9LS2nw////AP///wD///8A////AP///wD///8A////AP///wD///8AMzNmCj4+Wv51l8Pii7zv/5HD
+        9P+Zy/v/mcv7/5HC9P+Zy/v/mcv7/5nL+/+Zy/v/mcv7/4Wq1uJLS2n/UVFrE////wD///8A////AP//
+        /wD///8A////AP///wD///8ARkZdN0BAXP96n87gi7zv/5HD9P+Zy/v/mcv7/5nL+/+Zy/v/mcv7/5nL
+        +/+Zy/v/mcv7/4235OJLS2n/Tk5pLv///wD///8A////AP///wD///8A////AP///wD///8AVVVVBj4+
+        W/1TWXr+faTS6ZHC9P+Zy/v/mcv7/5nL+/+Zy/v/mcv7/5nL+/+Zy/v/ibHd51hggvxLS2n/SUltDv//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AD4+WvJLS2n/S0tp/2Z6oPuHrtznlsj5/pnL
+        +/+Zy/v/mcv6+oiu2tpgbI/1S0tp/0tLaf9LS2nh////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AD8/WtlJSWb/S0tp/0tLaf9LS2n/an+l9ZHA8fCTwfDnWGCC/EtLaf9LS2n/S0tp/0tL
+        af9MTGmz////AP///wD///8A////AP///wD///8A////AP///wD///8A////AEJCXVVBQV7+S0tp/0tL
+        af9LS2n/S0tp/0xMav9LS2n/S0tp/0tLaf9LS2n/S0tp/0tLaf9LS2lE////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wBAQFvXSEhm/0tLaf9LS2n/S0tp/0tLaf9LS2n/S0tp/0tL
+        af9LS2n/S0tp/0tLabT///8A////AP///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wBDQ14uQUFc9EpKaP9LS2n/S0tp/0tLaf9LS2n/S0tp/0tLaf9LS2n/S0tp6kpKayb///8A////AP//
+        /wD///8A////AP///wD///8A////AP///wD///8A////AP///wD///8ARUVgJUBAXeJJSWf/S0tp/0tL
+        af9LS2n/S0tp/0tLaf9KSmnKT09qHf///wD///8A////AP///wD///8A////AP///wD///8A////AP//
+        /wD///8A////AP///wD///8A////AFVVVQZCQl6TR0diuElJZuRLS2jkSkppqEtLampJSW0H////AP//
+        /wD///8A////AP///wD///8A////AP///wDgAAcA4AAHAOAABwDgAAcA4AAHAOAABwDwAA8A+AAfAP4A
+        fwD8wz8A/AA/APgAHwD4AB8A+AAfAPAADwDwAA8A8AAPAPgAHwD4AB8A+AAfAPwAPwD8AD8A/gB/AP8A
+        /wA=
+</value>
   </data>
 </root>
